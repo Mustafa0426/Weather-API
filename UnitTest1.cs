@@ -33,6 +33,7 @@ namespace Weather_Api_testing
 
 
         [OneTimeSetUp] 
+        //Intialize
         public void intializeCLient ()=> _client = new RestClient (_url);
         [OneTimeSetUp]
         public void getTestData()
