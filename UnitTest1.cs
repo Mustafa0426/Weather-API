@@ -22,8 +22,8 @@ namespace Weather_Api_testing
         private string _urlpath = "/current.json";
         private string _ApiKey = "bab25eeea39a482d88f202152232705";
         private string _invalidApiKey = "bab25eeea39a482d88f202157832705";
-        private string _filePath = "C:/Users/abdul/Documents/Study/Software tessting/API Testing/New folder/Weather Api testing/Weather_Api_testing/Weather_Api_testing/Test Data/city_data.csv";
-        private string _filePathInvalid = "C:/Users/abdul/Documents/Study/Software tessting/API Testing/New folder/Weather Api testing/Weather_Api_testing/Weather_Api_testing/Test Data/city_data-Invalid.csv";
+        private string _filePath = "C:/Users/mustafa/Documents/Study/Software tessting/API Testing/New folder/Weather Api testing/Weather_Api_testing/Weather_Api_testing/Test Data/city_data.csv";
+        private string _filePathInvalid = "C:/Users/mustafa/Documents/Study/Software tessting/API Testing/New folder/Weather Api testing/Weather_Api_testing/Weather_Api_testing/Test Data/city_data-Invalid.csv";
         List<string> csvData = new List<string>();
         List<string> csvDataInvalid = new List<string>();
 
